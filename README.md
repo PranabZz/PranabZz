@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranabZz
 - 👀 I’m interested in learning web dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on backend based projects
 - 📫 How to reach me pranabkca321@gmail.com
 
 
