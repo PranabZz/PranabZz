@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranab</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranabzz&label=Profile%20views&color=0e75b6&style=flat" alt="pranabzz" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranabzz" alt="pranabzz" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/pranab84959194" target="blank"><img src="https://img.shields.io/twitter/follow/pranab84959194?logo=twitter&style=for-the-badge" alt="pranab84959194" /></a> </p>
 
 - 🔭 I’m currently working on [PHP framework](https://github.com/PranabZz/PHP_Framework)
