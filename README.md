@@ -1,15 +1,5 @@
 # <div align="center">👨‍💻 Pranab Raj KC</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranabZz&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranab's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue" />
-  <img src="https://img.shields.io/badge/C-Programming-orange" />
-  <img src="https://img.shields.io/badge/PHP-Expert-purple" />
-  <img src="https://img.shields.io/badge/Pygame-Enthusiast-green" />
-</div>
 
 ## 🚀 About Me
 
